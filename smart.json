@@ -1,0 +1,8 @@
+{
+	"name": "mssql",
+	"description": "A node.js driver for mssql, extended to Meteor.",
+	"homepage": "https://github.com/elosoman/meteor-mssql",
+	"author": "elosoman (https://github.com/elosoman/meteor-mssql)",
+	"version": "1.0.0",
+	"git": "https://github.com/elosoman/meteor-mssql"
+}
