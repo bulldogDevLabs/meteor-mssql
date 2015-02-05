@@ -2,13 +2,11 @@
 	"dependencies": {
 		"mssql": {
 			"version": "1.3.0",
-
 			"dependencies": {
 				"tedious": {
 					"version": "1.9.0"
 				},
-
-				"generic-tool": {
+				"generic-pool": {
 					"version": "2.1.1"
 				}
 			}
