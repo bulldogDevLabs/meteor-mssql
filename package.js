@@ -35,3 +35,6 @@ Package.onTest(function(api) {
 });
 
 
+Npm.depends({ 'mssql': '1.3.0' });
+
+
