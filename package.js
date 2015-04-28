@@ -18,9 +18,9 @@ Package.describe({
 Package.onUse(function(api) {
 	api.versionsFrom('1.0.3.1');
 
-	api.add_files(['lib/mssql.js'], 'server');
+	api.add_files('lib/mssql.js', 'server');
 	if (typeof api.export !== 'undefined') { 
-		api.export('Mssql', 'server'); 
+		api.export('mssql', 'server'); 
 	}
 });
 
