@@ -5,9 +5,9 @@
 
 Package.describe({
 	name: 'elosoman:meteor-mssql',
-	version: '0.0.1',
+	version: '1.3.0',
 	summary: 'A node.js driver for mssql, extended to Meteor.',
-	git: 'https://github.com/elosoman/meteor-mssql',
+	git: 'https://github.com/bulldogDevLabs/meteor-mssql',
 	documentation: 'README.md'
 });
 
