@@ -7,7 +7,9 @@ A node.js driver for mssql, extended to Meteor.
 
 ## Use
 
+```sh
 meteor add bulldogDevLabs:meteor-mssql
+```
 
 ## Documentation
 
